@@ -1,1 +1,15 @@
+:root {
+   --marrom-escuro: #662400;
+   --marrom-claro : #B33F00;
+   --laranja-claro : #FF8846;
+   --ciano-forte : #004341;
+   --laranja : #FF5A00;
+}
 
+.cabecalho{
+    background-color: var(--marrom-escuro)
+}
+
+.logo{
+    width: 10%;
+}
